@@ -10885,7 +10885,8 @@
     "Amazon",
     "Adobe",
     "Paypal",
-    "Uber"
+    "Uber",
+    "Zoho"
   ],
   "https://leetcode.com/problems/bitwise-and-of-numbers-range/": [
     "Bitwise AND of Numbers Range",
@@ -11709,7 +11710,8 @@
     "Microsoft",
     "Bloomberg",
     "Apple",
-    "Goldman Sachs"
+    "Goldman Sachs",
+    "Zoho"
   ],
   "https://leetcode.com/problems/subsets-ii/": [
     "Subsets II",
@@ -11758,7 +11760,8 @@
     "Uber",
     "Bloomberg",
     "ByteDance",
-    "DoorDash"
+    "DoorDash",
+    "zoho"
   ],
   "https://leetcode.com/problems/remove-duplicates-from-sorted-list/": [
     "Remove Duplicates from Sorted List",
@@ -11841,7 +11844,8 @@
     "Grab",
     "Uber",
     "Facebook",
-    "Intel"
+    "Intel",
+    "Zoho"
   ],
   "https://leetcode.com/problems/search-a-2d-matrix/": [
     "Search a 2D Matrix",
@@ -12177,7 +12181,8 @@
     "Google",
     "Facebook",
     "Uber",
-    "Coursera"
+    "Coursera", 
+    "Zoho"
   ],
   "https://leetcode.com/problems/multiply-strings/": [
     "Multiply Strings",
@@ -12430,7 +12435,8 @@
     "Walmart Global Tech",
     "Oracle",
     "ByteDance",
-    "Tesla"
+    "Tesla",
+    "Zoho"
   ],
   "https://leetcode.com/problems/merge-two-sorted-lists/": [
     "Merge Two Sorted Lists",
